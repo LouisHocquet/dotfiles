@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = louis.hocquet@sfr.fr
+	name = Louis Hocquet
